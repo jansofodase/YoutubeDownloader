@@ -3,7 +3,7 @@
 Um baixador de vídeos e playlists do YouTube.
 
 ```
-ytdownload.exe <url(s)> [diretório]
+YoutubeDownloader.exe <url(s)> [diretório]
 ```
 
 - `<url(s)>`= Link(s) de vídeos e/ou playlist(s) do YouTube
