@@ -1,6 +1,6 @@
 # YoutubeDownloader
 
-Um baixador de vídeos e playlists do YouTube.
+Um baixador de vídeos e playlists do YouTube
 
 ```
 YoutubeDownloader.exe <url(s)> [diretório]
